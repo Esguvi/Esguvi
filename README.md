@@ -1,4 +1,4 @@
-<h2 align="left">Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up? My name is Esguvi and I'm a Junior Full-stack Dev, from <img src="https://cdn-icons-png.flaticon.com/128/16022/16022729.png" width="17" /> Spain.</h2>
+<h2 align="left">Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up? My name is Esguvi and I'm a Junior Software Dev, from <img src="https://cdn-icons-png.flaticon.com/128/16022/16022729.png" width="17" /> Spain.</h2>
 
 ###
 
